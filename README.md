@@ -24,11 +24,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 👨🏽‍💻 I’m currently a UNITEN final year student
+- 🌱 I’m also working part time as software developer. 
+- 🤔 My interest lies in backend engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [farhanhlmy@gmail.com](mailto:farhanhlmy@gmail.com).
 
 
 

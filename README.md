@@ -17,17 +17,17 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **SYSTEM DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a UNITEN final year student
+- 👨🏽‍💻 I'm a Solution Architect Intern at Amazon
 - 🌱 I’m also working part time as software developer. 
 - 🤔 My interest lies in backend engineering.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Learning a lot of latest tech!
 - 📫 Email me at [farhanhlmy@gmail.com](mailto:farhanhlmy@gmail.com).
 
 

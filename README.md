@@ -24,7 +24,7 @@ A **SYSTEM DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I'm a Solution Architect Intern at Amazon
+- 👨🏽‍💻 I'm a Solution Architect Intern at Amazon Web Services (AWS)
 - 🌱 I’m also working part time as software developer. 
 - 🤔 My interest lies in backend engineering.
 - 💬 Learning a lot of latest tech!

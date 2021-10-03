@@ -24,8 +24,7 @@ A **SYSTEM DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I'm a Solution Architect Intern at Amazon Web Services (AWS)
-- 🌱 I’m also working part time as software developer. 
+- 🌱 Developing system for fun. 
 - 🤔 My interest lies in backend engineering.
 - 💬 Learning a lot of latest tech!
 - 📫 Email me at [farhanhlmy@gmail.com](mailto:farhanhlmy@gmail.com).
